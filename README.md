@@ -1,5 +1,7 @@
                                                                        FPGROWTH ALGORTHM
 
+[![Build Status](https://travis-ci.org/chidelmun/Data-Mining-A-Priori-Algorithm.svg?branch=master)](https://travis-ci.org/chidelmun/Data-Mining-A-Priori-Algorithm)
+
 Copyright (c) <2015> <DELVERI MUNANG, Department of Computer Engineering, University of Buea>
     
 Permission is hereby granted, free of charge, to any person
